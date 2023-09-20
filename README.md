@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-¡Hola! Soy Nicolás Ildarraz, un programador junior con mucha pasión por la tecnología. Estudio Ciencias de la Computación en la Universidad Nacional de Córdoba, Argentina.<br><br>Tengo 22 años y estoy motivado por aprender y crecer en mi carrera. Busco constantemente nuevas oportunidades que me desafien. Estoy abierto a trabajar en una variedad de proyectos y estoy ansioso por contribuir a equipos de desarrollo que me permitan utilizar mis habilidades y conocimientos. <br><br>Si estás buscando un programador junior motivado no dudes en contactarme.
+¡Hola! Soy Nicolás Ildarraz, un programador junior con mucha pasión por la tecnología. Estudio Ciencias de la Computación en la Universidad Nacional de Córdoba, Argentina.<br><br>Tengo 22 años y estoy motivado por aprender y crecer en mi carrera. Busco constantemente nuevas oportunidades que me desafien. Estoy abierto a trabajar en una variedad de proyectos, apasionado por contribuir a equipos de desarrollo que me permitan utilizar mis habilidades y conocimientos. <br><br>Si estás buscando un programador junior motivado no dudes en contactarme.
 
 
 ## 🌐 Socials:
