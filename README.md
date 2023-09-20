@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mí:
 ¡Hola! Soy Nicolás Ildarraz, un programador junior con mucha pasión por la tecnología. Estudio Ciencias de la Computación en la Universidad Nacional de Córdoba, Argentina.<br><br>Tengo 22 años y estoy motivado por aprender y crecer en mi carrera. Busco constantemente desafíos y nuevas oportunidades para aprender y crecer. Estoy abierto a trabajar en una variedad de proyectos y estoy ansioso por contribuir a equipos de desarrollo que me permitan utilizar mis habilidades y conocimientos. <br><br>Si estás buscando un programador junior motivado no dudes en contactarme.
 
 
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ildarraznicolas&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ildarraznicolas&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ildarraznicolas&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ildarraznicolas&limit=5&theme=dark&combine_all_yearly_contributions=true)
